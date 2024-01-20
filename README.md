@@ -4,6 +4,15 @@
 This project is a collection of math samples in ANSI C
 licensed under the permissive MIT license.
 
+### How to use this project
+
+Clone the repository:
+```
+$ git clone ssh://git@github.com/javiermontenegro/C_Math.Samples.git
+```
+
+Or else simply download zip file from [this link](https://codeload.github.com/javiermontenegro/C_Math.Samples/zip/refs/heads/master).
+
 ### Compile the program
 
 Build the program using gcc.
